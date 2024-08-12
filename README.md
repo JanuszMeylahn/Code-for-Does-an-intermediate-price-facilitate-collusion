@@ -1,4 +1,4 @@
-# Code-for-Does-an-intermediate-price-facilitate-collusion
+# Code for: Does-an intermediate price facilitate collusion?
 Code for reproducing the results of the article: Does an intermediate price facilitate collusion?
 
 This repository contains the Mathematica file for reproducing the result for the article: Does an intermediate price facilitate collusion? A preprint of the article can be found at: https://ssrn.com/abstract=4594415
